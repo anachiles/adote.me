@@ -1,0 +1,23 @@
+.feed {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .feed header {
+    background-color: var(--primary-color);
+    color: white;
+    padding: var(--padding);
+    text-align: center;
+  }
+  
+  .feed main {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .feed footer {
+    text-align: center;
+    padding: var(--padding);
+  }
